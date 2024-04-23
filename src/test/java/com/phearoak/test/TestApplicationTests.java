@@ -40,6 +40,5 @@ class TestApplicationTests {
 		assert true;
 		assert true;
 		assert true;
-		assert true;
 	}
 }

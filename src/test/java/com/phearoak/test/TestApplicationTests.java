@@ -9,6 +9,6 @@ class TestApplicationTests {
 	@Test
 	void contextLoads() {
 		assert true;
+		assert false;
 	}
-
 }

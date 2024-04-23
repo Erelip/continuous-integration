@@ -24,4 +24,12 @@ class TestApplicationTests {
 		assert true;
 		assert true;
 	}
+
+	@Test
+	void moreMoreAndMoreTests() {
+		assert true;
+		assert true;
+		assert true;
+		assert true;
+	}
 }

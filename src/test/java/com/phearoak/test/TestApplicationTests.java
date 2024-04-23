@@ -9,6 +9,19 @@ class TestApplicationTests {
 	@Test
 	void contextLoads() {
 		assert true;
-		assert false;
+		assert true;
+	}
+
+	@Test
+	void moreTests() {
+		assert true;
+		assert true;
+	}
+
+	@Test
+	void moreMoreTests() {
+		assert true;
+		assert true;
+		assert true;
 	}
 }

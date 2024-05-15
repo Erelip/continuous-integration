@@ -39,5 +39,16 @@ class TestApplicationTests {
 		assert true;
 		assert true;
 		assert true;
+		assert true;
+	}
+
+	@Test
+	void moreAndMoreMoreAndMoreMoreTests() {
+		assert true;
+		assert true;
+		assert true;
+		assert true;
+		assert true;
+		assert true;
 	}
 }

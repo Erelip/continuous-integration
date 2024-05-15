@@ -50,5 +50,6 @@ class TestApplicationTests {
 		assert true;
 		assert true;
 		assert true;
+		assert (1+5 == 6);
 	}
 }
